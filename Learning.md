@@ -99,7 +99,6 @@ https://pythonhosted.org/an_example_pypi_project/setuptools.html
 * Python Code Quality: Tools & Best Practices: https://realpython.com/python-code-quality/
 * Parameterization: https://hackernoon.com/4-ways-to-manage-the-configuration-in-python-4623049e841b
 
-## Python in JnJ
 
 ## Community of Practice notes
 * Enterprise Integration Patterns by Gregor Hoppe
