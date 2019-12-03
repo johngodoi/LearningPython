@@ -67,6 +67,9 @@ Na Terra de Mordor onde as Sombras se deitam.
     * mkvirtualenv my-new-project
 * https://realpython.com/python-virtual-environments-a-primer/
 
+## setuptools
+https://pythonhosted.org/an_example_pypi_project/setuptools.html
+
 ## requirements.txt
 * receita de bolo para as dependências que o precisa instalar para o projeto
 * pip install -r requirements.txt (installing package requirements)
